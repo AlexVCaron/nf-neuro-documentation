@@ -72,6 +72,12 @@ export default defineConfig({
 								{ label: 'Data in devcontainers', slug: 'how-to/vscode/devcontainer-manage-data' },
 								{ label: 'Nextflow support', slug: 'how-to/vscode/nextflow-language-support' }
 							]
+						},
+						{
+							label: "Lineage",
+							items: [
+								{ label: 'Software versioning', slug: 'how-to/lineage/common-software-versions' }
+							]
 						}
 					],
 				},
